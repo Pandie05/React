@@ -1,16 +1,17 @@
 import './App.css';
-import Todo from './todo';
+import SignUpForm from './SignUpForm';
 
 function App() {
   return (
-    <div class="todo-container">
-      <div class="card">
-        <Todo />
-      </div>
+    <div className="App">
+      <header className="App-header">
+        <h1>Sign Up Form</h1>
+      </header>
+      <main>
+        <SignUpForm />
+      </main>
     </div>
   );
 }
-
-
 
 export default App;
