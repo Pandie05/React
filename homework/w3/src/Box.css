@@ -1,0 +1,19 @@
+.box {
+  padding: 20px;
+  border-radius: 8px;
+  background-color: #f0f0f0;
+  margin: 20px auto;
+  text-align: center;
+}
+
+.box-small {
+  width: 200px;
+}
+
+.box-medium {
+  width: 300px;
+}
+
+.box-large {
+  width: 400px;
+}
