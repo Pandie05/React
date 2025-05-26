@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "name": "Bulbasaur",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png",
+    "price": 5
+  },
+  {
+    "id": 4,
+    "name": "Charmander",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png",
+    "price": 7
+  },
+  {
+    "id": 7,
+    "name": "Squirtle",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png",
+    "price": 6
+  },
+  {
+    "id": 25,
+    "name": "Pikachu",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png",
+    "price": 8
+  },
+  {
+    "id": 39,
+    "name": "Jigglypuff",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/39.png",
+    "price": 4
+  },
+  {
+    "id": 52,
+    "name": "Meowth",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/52.png",
+    "price": 5
+  },
+  {
+    "id": 133,
+    "name": "Eevee",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/133.png",
+    "price": 9
+  },
+  {
+    "id": 150,
+    "name": "Mewtwo",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
+    "price": 20
+  },
+  {
+    "id": 151,
+    "name": "Mew",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/151.png",
+    "price": 18
+  },
+  {
+    "id": 94,
+    "name": "Gengar",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png",
+    "price": 15
+  },
+  {
+    "id": 143,
+    "name": "Snorlax",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/143.png",
+    "price": 12
+  },
+  {
+    "id": 6,
+    "name": "Charizard",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png",
+    "price": 16
+  },
+  {
+    "id": 9,
+    "name": "Blastoise",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png",
+    "price": 14
+  },
+  {
+    "id": 3,
+    "name": "Venusaur",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png",
+    "price": 14
+  },
+  {
+    "id": 18,
+    "name": "Pidgeot",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png",
+    "price": 7
+  },
+  {
+    "id": 65,
+    "name": "Alakazam",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/65.png",
+    "price": 13
+  },
+  {
+    "id": 130,
+    "name": "Gyarados",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png",
+    "price": 15
+  },
+  {
+    "id": 131,
+    "name": "Lapras",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/131.png",
+    "price": 11
+  }
+]
